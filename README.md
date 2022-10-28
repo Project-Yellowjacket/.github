@@ -1,2 +1,1 @@
-# .github
-The readme for the org
+# Sheffield Space Inintiative UKSEDS Team: Yellowjacket
